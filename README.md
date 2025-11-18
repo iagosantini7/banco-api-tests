@@ -23,7 +23,6 @@ Fornecer uma suíte de testes automatizados para validar endpoints REST da API B
   Documentação: https://github.com/ladjs/supertest
 - **Mochawesome** – Geração de relatórios em HTML  
   Documentação: https://github.com/adamgruber/mochawesome
-- Outras dependências descritas no `package.json`.
 
 ---
 
